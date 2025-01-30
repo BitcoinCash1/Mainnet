@@ -1,8 +1,6 @@
 # Bitcoin Cash Mainnet
 
-The mainnet of Bitcoin Cash is the network that operates on the Bitcoin Cash blockchain. 
-
-The mainnet is the official blockchain (there are also `testnets`, `scalenet` and `regtest`), however this repository only looks at the mainnet.
+The mainnet of Bitcoin Cash is the official blockchain where all the transactions taken place and the latest version of the protocol deployed in production (there are also `testnets`, `scalenet` and `regtest`, however this repository only focuses on the mainnet).
 
 ## Synchronize with the Mainnet
 
